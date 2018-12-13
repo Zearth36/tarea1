@@ -1,0 +1,10 @@
+.contenido {
+  font-size: 15px;
+  color: darkgray;
+  background-color: green;
+}
+
+.firma {
+  color: red;
+  font-style: italic;
+}
